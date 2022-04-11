@@ -1,5 +1,11 @@
 import React from "react";
 
+import NavBar from "./NavBar";
+import Home, {username, city} from "./Home";
+import About from "./About";
+
+
+
 function App() {
   return (
     <div>
